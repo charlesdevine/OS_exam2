@@ -26,6 +26,8 @@ API built with Node.js, Express, and MongoDB for user registration/login and fil
     npm start
     ```
 
+5. Once all this is done, use Postman to test out different API calls, logging onto localhost:3000/api/
+
 ---
 
 ### API Documentation:
